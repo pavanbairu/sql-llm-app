@@ -1,7 +1,7 @@
 
 # 🧠 SQL-LLM-App
 
-A **Streamlit-based application** that converts **natural language queries** into **SQL** using **Groq's LLM** and executes them against a **Neon PostgreSQL** database.
+A **Streamlit-based application** that converts **natural language queries** into **SQL** using **EURI's LLM** and executes them against a **Neon PostgreSQL** database.
 
 ---
 
